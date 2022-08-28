@@ -27,3 +27,12 @@ Input change event    | html onChage event           | onChangeText event
 Button Tag            | html button Tag              | <Button /> component
 Button click event    | html onClick event           | onPress event
 Rendering list        | using html <ul><li> & map()  | using <Flatlist /> component
+
+
+
+Module 10: Redux, Redux Thunk, Navigation
+
+
+1) https://reactnavigation.org/
+2) https://reactnative.dev/docs/navigation
+3) https://reactnative.dev/docs/asyncstorage
